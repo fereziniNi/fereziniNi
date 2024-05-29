@@ -1,16 +1,13 @@
-## Hi there 👋
+# 🤟🏻 Hey, I'm Nícolas Ferezini
 
-<!--
-**fereziniNi/fereziniNi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨🏻‍💻 Software Engineer from Piracicaba sharing my projects
+👨🏻‍🎓 Studing [Software Engineering](https://youtu.be/O753uuutqH8?si=APPPozTD0vf2FgS4) at the [IFSP](https://scl.ifsp.edu.br/index.php/cursos.html?id=1762:bacharelado-em-engenharia-de-software&catid=61) in São Carlos, São Paulo - Brazil
+📓 Studied technical [Systems development](https://youtu.be/_MeRB4pPQKg?si=mZ86bc3gdqIbbsBz) at ETEC Dep. Ary de Camargo in Piracicaba, São Paulo - Brazil
 
-Here are some ideas to get you started:
+![Ferezini GitHub stats](https://github-readme-stats.vercel.app/api?username=fereziniNi&theme=github_dark&show_icons=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Skills
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql&perline=3)](https://skillicons.dev)
+
+# 📱Contats
+[![Linkedin: nicolas-ferezini](https://img.shields.io/badge/-NicolasFerezini-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicolas-ferezini/)](https://www.linkedin.com/in/nicolas-ferezini-4b9464308/) [![GitHub Nicolas](https://img.shields.io/github/followers/fereziniNi?label=follow&style=social)](https://github.com/fereziniNi)
