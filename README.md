@@ -1,4 +1,4 @@
-# 🤟🏻 Hey, I'm Nícolas Ferezini
+# Hey, I'm Nícolas Ferezini
 
 👨🏻‍💻 Software Engineer from Piracicaba sharing my projects</br>
 👨🏻‍🎓 Studing [Software Engineering](https://youtu.be/O753uuutqH8?si=APPPozTD0vf2FgS4) at the [IFSP](https://scl.ifsp.edu.br/index.php/cursos.html?id=1762:bacharelado-em-engenharia-de-software&catid=61) in São Carlos, São Paulo - Brazil </br>
@@ -10,4 +10,4 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql&perline=3)](https://skillicons.dev)
 
 # 📱Contats
-[![Linkedin: nicolas-ferezini](https://img.shields.io/badge/-NicolasFerezini-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicolas-ferezini/)](https://www.linkedin.com/in/nicolas-ferezini-4b9464308/) [![GitHub Nicolas](https://img.shields.io/github/followers/fereziniNi?label=follow&style=social)](https://github.com/fereziniNi)
+[![Linkedin: nicolas-ferezini](https://img.shields.io/badge/-NicolasFerezini-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicolas-ferezini/)](https://www.linkedin.com/in/nicolas-ferezini-4b9464308/)
