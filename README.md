@@ -4,7 +4,7 @@
 👨🏻‍🎓 Studing [Software Engineering](https://youtu.be/O753uuutqH8?si=APPPozTD0vf2FgS4) at the [IFSP](https://scl.ifsp.edu.br/index.php/cursos.html?id=1762:bacharelado-em-engenharia-de-software&catid=61) in São Carlos, São Paulo - Brazil </br>
 📓 Studied technical [Systems development](https://youtu.be/_MeRB4pPQKg?si=mZ86bc3gdqIbbsBz) at ETEC Dep. Ary de Camargo in Piracicaba, São Paulo - Brazil</br>
 
-![Ferezini GitHub stats](https://github-readme-stats.vercel.app/api?username=fereziniNi&theme=github_dark&show_icons=true)
+![Ferezini GitHub stats](https://github-readme-stats.vercel.app/api?username=fereziniNi&theme=github_dark&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fereziniNi&layout=compact)](https://github.com/fereziniNi/github-readme-stats)
 
 # 💻 Skills
 ### Languages/Frameworks I'm good at:
