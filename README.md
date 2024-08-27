@@ -7,7 +7,15 @@
 ![Ferezini GitHub stats](https://github-readme-stats.vercel.app/api?username=fereziniNi&theme=github_dark&show_icons=true)
 
 # 💻 Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql&perline=3)](https://skillicons.dev)
+### Languages/Frameworks I'm good at:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+          
+
+### Languages/Frameworks I'm learning:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"/>
+          
+          
 
 # 📱Contats
 [![Linkedin: nicolas-ferezini](https://img.shields.io/badge/-NicolasFerezini-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicolas-ferezini/)](https://www.linkedin.com/in/nicolas-ferezini-4b9464308/)
