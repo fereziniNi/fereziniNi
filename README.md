@@ -8,11 +8,10 @@
 
 # 💻 Skills
 ### Languages/Frameworks I'm good at:
-(https://skillicons.dev/icons?i=html,css,js,php,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql&perline=3)](https://skillicons.dev)
           
 
 ### Languages/Frameworks I'm learning:
- 28ZM137 123.842C146.683 134.862 134.333 144.881 134.333 144.881C134.333 144.881 159.044 132.195 147.692 116.494C137.338 101.466 129.324 94.1184 172.738 69.0689C172.738 69.0689 104.278 86.0968 137.007 123.835L137 123.842Z"/></svg>
 
 
           
