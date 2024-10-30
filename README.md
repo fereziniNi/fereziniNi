@@ -12,7 +12,7 @@
           
 
 ### Languages/Frameworks I'm learning:
-[![My Skills](https://skillicons.dev/icons?i=c,java,git,linux&perline=2)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,java,react,git,linux&perline=3)](https://skillicons.dev)
 
           
           
