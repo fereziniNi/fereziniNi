@@ -8,8 +8,11 @@
 ![Ferezini GitHub stats](https://github-readme-stats.vercel.app/api?username=fereziniNi&theme=github_dark&show_icons=true)    
 # 💻 Skills
 ### Languages/Frameworks I'm good at:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,php,c,java,python&perline=3)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=mysql,sql&perline=2)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,php&perline=5)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=c,java,py&perline=3)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres&perline=2)](https://skillicons.dev)
 
 <!--### Languages/Frameworks I'm learning:
 [![My Skills](https://skillicons.dev/icons?i=c,java,react,git,linux&perline=3)](https://skillicons.dev)
