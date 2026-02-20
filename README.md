@@ -1,6 +1,6 @@
 # Nicolas Ferezini Martins
 
-![Profile Photo](./profile.jpg)  
+![Profile Photo](./minhafoto.png)  
 <!-- Use a real professional photo of yourself (neutral background, good lighting, no fictional characters). -->
 🙋🏻‍♂️ Software Engineering Student
 🧑🏻‍💻 AI Engineer Intern & Fullstack Developer  
