@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Construo sistemas com LLMs que rodam de verdade — de RAG offline com reranking a integrações de IA em sistemas internos.
+  Construo sistemas que rodam de verdade — de RAG offline com reranking a um sistema interno em produção, desenvolvido com IA.
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 ### 👋 Sobre mim
 
-Sou **estagiário de IA e desenvolvimento full stack na Leancys**, onde integro **APIs de LLMs a sistemas internos**, construo e ajusto prompts e fluxos de IA e **testo a qualidade das respostas** antes de cada entrega. Desenvolvo com **Claude Code** no dia a dia.
+Sou **estagiário de IA e desenvolvimento full stack na Leancys**, onde construí por iniciativa própria o **[escritor.io](https://github.com/fereziniNi/escritor.io)**, sistema interno de ponto, tarefas e escritório virtual usado diariamente pelo time. Desenvolvo com **Claude Code** em TDD, em fatias pequenas e com verificação a cada etapa.
 
 Meu foco é unir **IA aplicada + engenharia de software**: pipelines bem avaliados, código testável e resultados que dá para medir.
 
@@ -57,6 +57,7 @@ Meu foco é unir **IA aplicada + engenharia de software**: pipelines bem avaliad
 | Projeto | Descrição | Stack |
 |---|---|---|
 | **[llm-rag-local-pdf](https://github.com/fereziniNi/llm-rag-local-pdf)** | RAG 100% offline para PDFs (texto + tabelas): chunking semântico, embeddings, reranking e respostas com citação de arquivo e página | Python · LangChain · ChromaDB · Ollama · e5-base-v2 |
+| **[escritor.io](https://github.com/fereziniNi/escritor.io)** | Sistema interno de ponto (imutável, hash SHA-256 encadeado), kanban com apontamento de horas e escritório virtual 2D em tempo real; ~25 mil linhas e 1.275 testes, em uso diário | React · Spring Boot · PostgreSQL · Railway |
 | **[project-Hospital](https://github.com/fereziniNi/project-Hospital)** | Sistema full stack de gestão hospitalar: pacientes, agendamentos e prontuários | PHP · MySQL |
 
 ---
