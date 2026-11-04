@@ -17,13 +17,17 @@
 
 ### 👋 Sobre mim
 
-Sou **estagiário de IA e desenvolvimento full stack na Leancys**, onde construí por iniciativa própria o **[escritor.io](https://github.com/fereziniNi/escritor.io)**, sistema interno de ponto, tarefas e escritório virtual usado diariamente pelo time. Desenvolvo com **Claude Code** em TDD, em fatias pequenas e com verificação a cada etapa.
+Sou estudante de **Engenharia de Software no IFSP São Carlos** (6º semestre) e **estagiário de IA e desenvolvimento full stack na Leancys**. Gosto de pegar um problema real, entender a dor de quem usa e entregar uma solução que funcione em produção, do banco de dados à interface.
 
-Meu foco é unir **IA aplicada + engenharia de software**: pipelines bem avaliados, código testável e resultados que dá para medir.
+Uso **IA como parte central do meu jeito de construir**. Desenvolvo com **Claude Code** no dia a dia, mas com método: fatias pequenas, teste antes do código (TDD), verificação a cada etapa e decisões técnicas documentadas. A IA dá velocidade; o critério de engenharia continua sendo meu.
 
-- 🔭 Trabalhando com: LLMs, RAG, embeddings e reranking, avaliação de respostas, integração de APIs de LLM
-- 🌱 Aprofundando em: avaliação de LLMs com métricas, fine-tuning de modelos, agentes com tool calling e LLMOps
-- 🎯 Objetivo: me tornar um AI Engineer que treina, avalia e coloca modelos em produção
+Meu foco é unir **IA aplicada + engenharia de software**: sistemas com LLMs que dá para testar, medir e manter, e não só demos que funcionam uma vez.
+
+- 🔭 **Trabalhando com:** LLMs, RAG, embeddings e reranking, busca semântica, integração de APIs de LLM, Python e Java/Spring
+- 🌱 **Aprofundando em:** avaliação de LLMs com métricas, fine-tuning de modelos, agentes com tool calling e LLMOps
+- 🛠️ **Como trabalho:** TDD, Git com pull requests e code review, investigação de causa raiz (código, SQL, logs e APIs)
+- 🎯 **Objetivo:** me tornar um AI Engineer que treina, avalia e coloca modelos em produção
+- 🤝 **Aberto a:** estágio em IA/ML, projetos open source e conversas sobre LLMs
 
 ---
 
