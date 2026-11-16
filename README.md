@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=900&color=7C3AED&center=true&vCenter=true&width=640&lines=Agentes+com+LLM+que+d%C3%A1+para+medir;Vis%C3%A3o+computacional+rodando+local%2C+sem+GPU;RAG%2C+evals+e+guardrails;Claude+Code+%2B+TDD+no+dia+a+dia" alt="Agentes com LLM que dá para medir · Visão computacional local · RAG, evals e guardrails · Claude Code + TDD"/></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=900&color=7C3AED&center=true&vCenter=true&width=640&lines=Agentes+com+LLM+que+d%C3%A1+para+medir;Entrevistas+por+IA+no+WhatsApp;Vis%C3%A3o+computacional+rodando+local%2C+sem+GPU;RAG%2C+evals+e+guardrails;Claude+Code+%2B+TDD+no+dia+a+dia" alt="Agentes com LLM que dá para medir · Visão computacional local · RAG, evals e guardrails · Claude Code + TDD"/></a>
 
 <a href="https://www.linkedin.com/in/nicolas-ferezini/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:nicolasferezini22@gmail.com"><img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -24,7 +24,7 @@
 nicolas = {
     "papel":      "Estagiário de IA e Full Stack @ Leancys",
     "formação":   "Engenharia de Software · IFSP São Carlos (conclusão 2027)",
-    "construo":   ["agentes de LLM com RAG e guardrails", "agente de voz em produção", "visão computacional local"],
+    "construo":   ["entrevistas por IA no WhatsApp", "agentes de LLM com RAG e guardrails", "agente de voz em produção", "visão computacional local"],
     "princípio":  "se não tem métrica, ainda não está pronto",
     "agora":      ["fine-tuning com LoRA", "serving de modelos", "LLMOps"],
 }
@@ -35,6 +35,20 @@ nicolas = {
 ### `> projetos`
 
 <table>
+<tr>
+<td colspan="2" valign="top">
+
+#### 🎙️ [RAGA: entrevista de candidatos por IA no WhatsApp](https://github.com/fereziniNi/RAGA)
+<sub>🌐 código aberto · ⭐ projeto em destaque</sub>
+
+O candidato conversa com um bot no WhatsApp: consentimento (LGPD), perguntas de triagem, currículo e uma **entrevista por áudio conduzida pela IA**. A fala é transcrita **localmente com Whisper** e o Claude avalia cada candidato **por critério, com justificativa e evidências**, num painel para o recrutador. **A decisão final é sempre humana.**
+
+**⚡ 253 testes automatizados · roda inteiro em Docker (API, banco, WhatsApp e painel)**
+
+<img src="https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white"/> <img src="https://img.shields.io/badge/Whisper-412991?style=flat-square&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 
